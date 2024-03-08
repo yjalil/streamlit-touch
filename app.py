@@ -25,6 +25,9 @@ main_page = """
         background-color : black;
         z-index : 0;
     }
+    [data-testid="stWebcamStyledBox"] {
+        background-color : black;
+    }
     [data-testid="stCameraInputButton"] {
         width : 80vw;
         height: 100vh;
