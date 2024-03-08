@@ -1,6 +1,4 @@
 import streamlit as st
-import numpy as np
-import cv2 as cv
 from PIL import Image
 import requests
 import io
